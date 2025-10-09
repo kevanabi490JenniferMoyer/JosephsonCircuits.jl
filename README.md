@@ -1548,3 +1548,5 @@ We prioritize speed (including compile time and time to first use), simplicity, 
 
 # Funding
 We gratefully acknowledge funding from the [AWS Center for Quantum Computing](https://aws.amazon.com/blogs/quantum-computing/announcing-the-opening-of-the-aws-center-for-quantum-computing/) and the [MIT Center for Quantum Engineering (CQE)](https://cqe.mit.edu/).
+
+<!-- Auto-update: 2025-10-09T22:42:49.101037 -->
